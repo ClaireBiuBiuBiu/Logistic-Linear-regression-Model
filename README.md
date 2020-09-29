@@ -1,7 +1,6 @@
 # R-Data Science-project
 Those are data science project made by R
 
-Executive Summary
 The use of data and analytics to excel online retail has become more pervasive. Therefore,
 organizations, especially e-commerce companies with big-data support, must continue to improve the
 use of data and analytics to stay ahead to enhance customer engagement and better predict human
