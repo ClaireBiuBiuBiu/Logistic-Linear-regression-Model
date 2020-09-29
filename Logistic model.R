@@ -1,4 +1,4 @@
-setwd ("D://UMD life//Spring Study//Action Learning Project//data//final model")
+
 mynew=read.csv("2.26_clean.csv")
 library(ggplot2)
 library(tidyverse)
